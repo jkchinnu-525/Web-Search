@@ -1,8 +1,5 @@
 # Web Query Extractor 🔍
 
-[![Frontend Deployment](https://img.shields.io/badge/Vercel-Deployed-success)](https://your-vercel-app.vercel.app)
-[![Backend Deployment](https://img.shields.io/badge/Render-Deployed-blue)](https://your-backend.onrender.com)
-
 A full-stack single-page application (SPA) that allows users to input a website URL and a search query. The application returns the top 10 relevant HTML content chunks (up to 500 tokens each) using semantic or keyword-based search powered by a vector database.
 
 ## Key Features ✨
