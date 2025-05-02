@@ -35,7 +35,7 @@ A full-stack single-page application (SPA) that allows users to input a website 
 [![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker)](https://docker.com)
 
 **Vector Database**  
-[![Milvus](https://img.shields.io/badge/Milvus-2.3.3-00B5AD)](https://milvus.io)  
+[![Milvus](https://img.shields.io/badge/Milvus-2.3.3-00B5AD)](https://milvus.io)
 [![pymilvus](https://img.shields.io/badge/PyMilvus-2.3.3-3776AB?logo=python)](https://pymilvus.readthedocs.io/)
 
 **NLP**  
