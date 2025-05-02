@@ -34,8 +34,8 @@ A full-stack single-page application (SPA) that allows users to input a website 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker)](https://docker.com)
 
-**Vector Database**
-[![Milvus](https://img.shields.io/badge/Milvus-2.3.3-00B5AD?logo=data:image/svg+xml;base64,PHN2Zy...)](https://milvus.io)
+**Vector Database**  
+[![Milvus](https://img.shields.io/badge/Milvus-2.3.3-00B5AD)](https://milvus.io)  
 [![pymilvus](https://img.shields.io/badge/PyMilvus-2.3.3-3776AB?logo=python)](https://pymilvus.readthedocs.io/)
 
 **NLP**  
